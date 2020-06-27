@@ -10,7 +10,7 @@
     <groupId>nl.example.teachertst</groupId>
 	<artifactId>fta-service</artifactId>
     <name>fta_service</name>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
     <description>Demo project for Spring Boot</description>
     
     <properties>
@@ -19,7 +19,8 @@
 
     <scm>
         <connection>scm:git:https://github.com/teacher1823/follow_the_artifact.git</connection>
-    </scm>
+      <tag>v0.1</tag>
+  </scm>
 
     <distributionManagement>
         <repository>
