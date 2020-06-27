@@ -9,7 +9,7 @@
 
     <groupId>nl.example.teachertst</groupId>
 	<artifactId>fta-service</artifactId>
-    <name>fta-service</name>
+    <name>fta_service</name>
 	<version>0.1-SNAPSHOT</version>
     <description>Demo project for Spring Boot</description>
     
